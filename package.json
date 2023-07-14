@@ -1,22 +1,22 @@
 {
-  "name": "thomasdavis",
+  "name": "miguelgglez",
   "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
+  "description": "Miguel A. Garcia. Resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
+    "url": "git+https://github.com/Michi05/resume.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "Thomas Davis",
+  "author": "Miguel A. Garcia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
+    "url": "https://github.com/Michi05/resume/issues"
   },
-  "homepage": "https://github.com/thomasdavis/resume#readme"
+  "homepage": "https://github.com/Michi05/resume#readme"
 }
